@@ -2,11 +2,11 @@
 //=================================================Constructeur et destructeur=================================================================
 Inventaire::Inventaire(/* args */)
 {
-    baton =0;
-    fleche=0;
-    epee=0;
-    couronne=0;
-    bracelet=0;
+   this->baton =0;
+    this->fleche=0;
+    this->epee=0;
+    this->couronne=0;
+    this->bracelet=0;
 }
 
 Inventaire::~Inventaire()
