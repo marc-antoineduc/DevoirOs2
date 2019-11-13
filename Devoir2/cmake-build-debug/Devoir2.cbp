@@ -107,12 +107,6 @@
 		<Unit filename="/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Epee.h">
 			<Option target="Devoir2"/>
 		</Unit>
-		<Unit filename="/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/FileManager.cpp">
-			<Option target="Devoir2"/>
-		</Unit>
-		<Unit filename="/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/FileManager.h">
-			<Option target="Devoir2"/>
-		</Unit>
 		<Unit filename="/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Fleche.cpp">
 			<Option target="Devoir2"/>
 		</Unit>

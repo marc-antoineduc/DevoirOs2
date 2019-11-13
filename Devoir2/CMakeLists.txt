@@ -18,4 +18,4 @@ add_executable(Devoir2
         Fleche.cpp
         fleche.h
         Inventaire.cpp
-        Inventaire.h FileManager.cpp FileManager.h)
+        Inventaire.h)

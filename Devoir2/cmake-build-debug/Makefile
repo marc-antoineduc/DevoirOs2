@@ -258,33 +258,6 @@ Epee.cpp.s:
 	$(MAKE) -f CMakeFiles/Devoir2.dir/build.make CMakeFiles/Devoir2.dir/Epee.cpp.s
 .PHONY : Epee.cpp.s
 
-FileManager.o: FileManager.cpp.o
-
-.PHONY : FileManager.o
-
-# target to build an object file
-FileManager.cpp.o:
-	$(MAKE) -f CMakeFiles/Devoir2.dir/build.make CMakeFiles/Devoir2.dir/FileManager.cpp.o
-.PHONY : FileManager.cpp.o
-
-FileManager.i: FileManager.cpp.i
-
-.PHONY : FileManager.i
-
-# target to preprocess a source file
-FileManager.cpp.i:
-	$(MAKE) -f CMakeFiles/Devoir2.dir/build.make CMakeFiles/Devoir2.dir/FileManager.cpp.i
-.PHONY : FileManager.cpp.i
-
-FileManager.s: FileManager.cpp.s
-
-.PHONY : FileManager.s
-
-# target to generate assembly for a file
-FileManager.cpp.s:
-	$(MAKE) -f CMakeFiles/Devoir2.dir/build.make CMakeFiles/Devoir2.dir/FileManager.cpp.s
-.PHONY : FileManager.cpp.s
-
 Fleche.o: Fleche.cpp.o
 
 .PHONY : Fleche.o
@@ -363,9 +336,6 @@ help:
 	@echo "... Epee.o"
 	@echo "... Epee.i"
 	@echo "... Epee.s"
-	@echo "... FileManager.o"
-	@echo "... FileManager.i"
-	@echo "... FileManager.s"
 	@echo "... Fleche.o"
 	@echo "... Fleche.i"
 	@echo "... Fleche.s"

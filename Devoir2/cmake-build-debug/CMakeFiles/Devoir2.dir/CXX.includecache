@@ -6,25 +6,3 @@
 
 #IncludeRegexTransform: 
 
-.././fleche.h
-
-/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Devoir2.cpp
-iostream
--
-thread
--
-Inventaire.h
-/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Inventaire.h
-
-/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/FileManager.cpp
-File.h
-/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/File.h
-string
--
-
-/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Fleche.cpp
-fleche.h
--
-
-/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Inventaire.h
-

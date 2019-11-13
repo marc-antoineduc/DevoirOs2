@@ -16,8 +16,6 @@ CMakeFiles/Devoir2.dir/Devoir2.cpp.o: ../Inventaire.h
 CMakeFiles/Devoir2.dir/Epee.cpp.o: .././Epee.h
 CMakeFiles/Devoir2.dir/Epee.cpp.o: ../Epee.cpp
 
-CMakeFiles/Devoir2.dir/FileManager.cpp.o: ../FileManager.cpp
-
 CMakeFiles/Devoir2.dir/Fleche.cpp.o: .././fleche.h
 CMakeFiles/Devoir2.dir/Fleche.cpp.o: ../Fleche.cpp
 

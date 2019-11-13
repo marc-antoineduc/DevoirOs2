@@ -19,7 +19,7 @@ int main()
     Inventaire* inventaire = new Inventaire();
     
 	clock_t start, end;
-	start = clock(); // start commence a compter le nombre de coups de la clocks
+	start = clock(); // start commence a compter le nombre de coups de la clock
 
     while (conditionbaton < 20 || conditionfleche < 20 || conditionepee < 20 || conditioncouronne < 20 || conditionbracelet < 20)
     {
@@ -45,7 +45,7 @@ int main()
     conditioncouronne+=10;
     conditionepee+=10;
     conditionfleche+=10;
-    cout << "et un while de complété";
+    cout << "et un while de complété";  // test
     //==========================================================================================================================================================================================
     }
     
