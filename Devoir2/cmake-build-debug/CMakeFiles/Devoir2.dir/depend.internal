@@ -17,8 +17,11 @@ CMakeFiles/Devoir2.dir/Epee.cpp.o
  .././Epee.h
  /Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Epee.cpp
 CMakeFiles/Devoir2.dir/Fleche.cpp.o
- .././fleche.h
+ .././Fleche.h
  /Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Fleche.cpp
+CMakeFiles/Devoir2.dir/Forgeron.cpp.o
+ /Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Forgeron.cpp
+ /Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Forgeron.h
 CMakeFiles/Devoir2.dir/Inventaire.cpp.o
  .././Inventaire.h
  /Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Inventaire.cpp

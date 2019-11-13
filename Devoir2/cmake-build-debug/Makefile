@@ -285,6 +285,33 @@ Fleche.cpp.s:
 	$(MAKE) -f CMakeFiles/Devoir2.dir/build.make CMakeFiles/Devoir2.dir/Fleche.cpp.s
 .PHONY : Fleche.cpp.s
 
+Forgeron.o: Forgeron.cpp.o
+
+.PHONY : Forgeron.o
+
+# target to build an object file
+Forgeron.cpp.o:
+	$(MAKE) -f CMakeFiles/Devoir2.dir/build.make CMakeFiles/Devoir2.dir/Forgeron.cpp.o
+.PHONY : Forgeron.cpp.o
+
+Forgeron.i: Forgeron.cpp.i
+
+.PHONY : Forgeron.i
+
+# target to preprocess a source file
+Forgeron.cpp.i:
+	$(MAKE) -f CMakeFiles/Devoir2.dir/build.make CMakeFiles/Devoir2.dir/Forgeron.cpp.i
+.PHONY : Forgeron.cpp.i
+
+Forgeron.s: Forgeron.cpp.s
+
+.PHONY : Forgeron.s
+
+# target to generate assembly for a file
+Forgeron.cpp.s:
+	$(MAKE) -f CMakeFiles/Devoir2.dir/build.make CMakeFiles/Devoir2.dir/Forgeron.cpp.s
+.PHONY : Forgeron.cpp.s
+
 Inventaire.o: Inventaire.cpp.o
 
 .PHONY : Inventaire.o
@@ -339,6 +366,9 @@ help:
 	@echo "... Fleche.o"
 	@echo "... Fleche.i"
 	@echo "... Fleche.s"
+	@echo "... Forgeron.o"
+	@echo "... Forgeron.i"
+	@echo "... Forgeron.s"
 	@echo "... Inventaire.o"
 	@echo "... Inventaire.i"
 	@echo "... Inventaire.s"

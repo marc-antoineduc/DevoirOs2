@@ -6,7 +6,7 @@
 #include "Inventaire.h"
 
 //==========
-//nos fichier
+//nos fichiers
 //===========
 using namespace std;
 
@@ -16,6 +16,8 @@ int main()
     int ressourceDisponibleParTour[5];
     const int chaine = 30, bois = 20, fer = 20, gold = 60, cuivre = 40;// constante pour initialiser nos ressource a chaque tour 
     int demandePourLeTour[5];
+    bool sceaudapprobationduforgeron;
+    
     Inventaire* inventaire = new Inventaire();
     
 	clock_t start, end;
@@ -38,7 +40,10 @@ int main()
         }
     //ICI NOUS DEVONS FAIRE UNE FONCTION D/CRITURE DE LA DEMANDE 
     
-    
+    if(sceaudapprobationduforgeron)
+        {
+        //séquance de forge avec recette a mettre ici
+        }
 
     conditionbaton+=10;
     conditionbracelet+=10;

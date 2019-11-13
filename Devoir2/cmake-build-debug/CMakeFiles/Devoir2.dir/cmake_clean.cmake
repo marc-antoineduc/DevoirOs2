@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Devoir2.dir/Epee.cpp.o"
   "CMakeFiles/Devoir2.dir/Fleche.cpp.o"
   "CMakeFiles/Devoir2.dir/Inventaire.cpp.o"
+  "CMakeFiles/Devoir2.dir/Forgeron.cpp.o"
   "Devoir2.pdb"
   "Devoir2"
 )

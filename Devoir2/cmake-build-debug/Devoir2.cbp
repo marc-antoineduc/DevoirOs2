@@ -113,6 +113,12 @@
 		<Unit filename="/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Fleche.h">
 			<Option target="Devoir2"/>
 		</Unit>
+		<Unit filename="/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Forgeron.cpp">
+			<Option target="Devoir2"/>
+		</Unit>
+		<Unit filename="/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Forgeron.h">
+			<Option target="Devoir2"/>
+		</Unit>
 		<Unit filename="/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Inventaire.cpp">
 			<Option target="Devoir2"/>
 		</Unit>

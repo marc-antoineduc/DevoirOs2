@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Devoir2.cpp" "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/cmake-build-debug/CMakeFiles/Devoir2.dir/Devoir2.cpp.o"
   "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Epee.cpp" "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/cmake-build-debug/CMakeFiles/Devoir2.dir/Epee.cpp.o"
   "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Fleche.cpp" "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/cmake-build-debug/CMakeFiles/Devoir2.dir/Fleche.cpp.o"
+  "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Forgeron.cpp" "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/cmake-build-debug/CMakeFiles/Devoir2.dir/Forgeron.cpp.o"
   "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Inventaire.cpp" "/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/cmake-build-debug/CMakeFiles/Devoir2.dir/Inventaire.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

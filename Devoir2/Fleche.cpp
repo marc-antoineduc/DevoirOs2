@@ -1,9 +1,9 @@
-#include <fleche.h>
+#include <Fleche.h>
 
-fleche::fleche(/* args */)
+Fleche::Fleche(/* args */)
 {
 }
 
-fleche::~fleche()
+Fleche::~Fleche()
 {
 }

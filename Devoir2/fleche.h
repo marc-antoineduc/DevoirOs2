@@ -1,11 +1,12 @@
 #pragma once
 
-class fleche
+class Fleche
 {
 private:
-    /* data */
+    const int boisnecessaire = 1;//ressources necessaire a la construction d'une fleche
+    const int fernecessaire = 1;
 public:
-    fleche(/* args */);
-    ~fleche();
+    Fleche(/* args */);
+    ~Fleche();
 };
 
