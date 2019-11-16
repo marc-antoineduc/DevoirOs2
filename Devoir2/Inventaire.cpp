@@ -1,6 +1,6 @@
-#include <Inventaire.h>
+#include "Inventaire.h"
 //=================================================Constructeur et destructeur=================================================================
-Inventaire::Inventaire(/* args */)
+Inventaire::Inventaire()
 {
    this->baton =0;
     this->fleche=0;
@@ -15,27 +15,27 @@ Inventaire::~Inventaire()
 //================================================= FONCTION DAJOUT A LINVENTAIRE================================================================
 int Inventaire::ajouterBaton(int nombreAjouter)
 {
-    baton+=1;
+    baton+=nombreAjouter;
     return 0;
 }
 int Inventaire::ajouterFleche(int nombreAjouter)
 {
-    fleche+=1;
+    fleche+=nombreAjouter;
     return 0;
 }
 int Inventaire::ajouterEpee(int nombreAjouter)
 {
-    epee+=1;
+    epee+=nombreAjouter;
     return 0;
 }
 int Inventaire::ajouterCouronne(int nombreAjouter)
 {
-    couronne+=1;
+    couronne+=nombreAjouter;
     return 0;
 }
 int Inventaire::ajouterBracelet(int nombreAjouter)
 {
-    bracelet+=1;
+    bracelet+=nombreAjouter;
     return 0;
 }
 //===============================================================================================================================================

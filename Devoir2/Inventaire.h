@@ -20,7 +20,7 @@ public:
     int getNombreDeBracelet();//Fonction servant obtenir notre nombre de bracelet cree a l<exterieur de lobjet
 
 
-    Inventaire(/* args */);
+    Inventaire();
     ~Inventaire();
 
     
